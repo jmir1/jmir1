@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 <div>
 	<p align="center">
 		<img src="https://github.com/jmir1/github-stats/blob/master/generated/overview.svg">
-		<img src="https://github.com/jmir1/jmir1/blob/master/codeStats.svg" alt="My Coding Activity/>
 	</p>
+	<!--START_SECTION:waka-->
+	<!--END_SECTION:waka-->
 </div>
