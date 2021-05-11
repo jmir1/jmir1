@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 	<p align="center">
 		<img src="https://github.com/jmir1/github-stats/blob/master/generated/overview.svg">
 	</p>
-	<!--START_SECTION:waka-->
+</div>
+<!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **I'm a Night 🦉** 
@@ -89,4 +90,3 @@ TeX                      1 repo              ███░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
-</div>
