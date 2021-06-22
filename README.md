@@ -14,10 +14,13 @@ Here are some ideas to get you started:
 - 💬 Ask me about: anything
 - 📫 How to reach me: discord: jmir#9379
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: sadly enough, i play [osu!](https://osu.ppy.sh/users/18018426)
+- ⚡ Fun fact: sadly enough, i play [osu!](https://osu.ppy.sh/users/18018426)  
 <div>
 	<p align="center">
-		<img src="https://github.com/jmir1/github-stats/blob/master/generated/overview.svg">
+		<a href="https://github.com/jmir1?tab=repositories" target="_blank" rel="noopener"><img src="https://github.com/jmir1/github-stats/blob/master/generated/overview.svg"></a>
+	</p>
+	<p align="center">
+		<a href="https://github.com/search?o=desc&q=author%3Ajmir1&s=committer-date&type=Commits" target="_blank" rel="noopener"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jmir1"></a>
 	</p>
 </div>
 
