@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 </div>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-48-blue)
 
 **I'm a Night 🦉** 
 
@@ -87,5 +87,5 @@ TeX                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 26/09/2021
+ Last Updated on 27/09/2021
 <!--END_SECTION:waka-->
