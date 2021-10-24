@@ -56,17 +56,16 @@ Sunday       20 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Kotlin                   1 min               █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Android Studio           1 min               █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-tachiyomi                1 min               ███████████████████████░░   92.07% 
-aniyomi                  0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   7.93%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 min               █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
