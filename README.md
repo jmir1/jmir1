@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 </div>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
 
 **I'm a Night 🦉** 
 
@@ -56,16 +56,19 @@ Sunday       20 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Kotlin                   30 mins             ███████████████████████░░   92.44% 
+XML                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   6.39% 
+Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.16% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Android Studio           33 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+tachiyomi                33 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  33 mins             █████████████████████████   100.0%
 
 ```
 
