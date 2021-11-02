@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 </div>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-23-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-22-blue)
 
 **I'm a Night 🦉** 
 
@@ -86,5 +86,5 @@ Rust                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 01/11/2021
+ Last Updated on 02/11/2021
 <!--END_SECTION:waka-->
