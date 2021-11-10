@@ -56,18 +56,16 @@ Sunday       23 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Kotlin                   1 hr 5 mins         ██████████████████████░░░   90.51% 
-Java                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   9.49%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Android Studio           1 hr 12 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-tachiyomi                1 hr 7 mins         ███████████████████████░░   93.47% 
-aniyomi                  4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   6.53%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 12 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -84,5 +82,5 @@ Rust                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 09/11/2021
+ Last Updated on 10/11/2021
 <!--END_SECTION:waka-->
