@@ -19,6 +19,11 @@ jobs:
           user: jmir1
           template: classic
           base: header, activity, community, repositories, metadata
+          repositories_forks: yes
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          plugin_habits_trim: yes
           config_timezone: Europe/Berlin
           plugin_achievements: yes
           plugin_achievements_display: detailed
@@ -34,11 +39,17 @@ jobs:
           plugin_anilist_limit: 2
           plugin_anilist_limit_characters: 22
           plugin_anilist_medias: anime, manga
-          plugin_anilist_sections: favorites
+          plugin_anilist_sections: watching, reading
           plugin_anilist_shuffle: yes
           plugin_anilist_user: jmir
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
+          plugin_isocalendar_duration: full-year
+          plugin_people: yes
+          plugin_people_types: followers
+          plugin_people_limit: 28
+          plugin_people_size: 28
+          plugin_people_identicons: no
+          plugin_people_shuffle: yes
           plugin_languages: yes
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
@@ -50,3 +61,10 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_lines: yes
           plugin_notable: yes
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          plugin_wakatime_days: 7
+          plugin_wakatime_sections: time, projects, projects-graphs
+          plugin_wakatime_limit: 4
+          plugin_wakatime_url: https://wakatime.com
+          plugin_wakatime_user: jmir1
