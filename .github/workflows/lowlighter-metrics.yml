@@ -24,6 +24,8 @@ jobs:
           plugin_habits_facts: yes
           plugin_habits_charts: yes
           plugin_habits_trim: yes
+          plugin_repositories: yes
+          plugin_repositories_featured: jmir1/aniyomi, jmir1/osm
           config_timezone: Europe/Berlin
           plugin_achievements: yes
           plugin_achievements_display: detailed
