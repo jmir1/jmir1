@@ -17,7 +17,7 @@ jobs:
 
           # Options
           user: jmir1
-          template: classic
+          template: markdown
           base: header, activity, community, repositories, metadata
           repositories_forks: yes
           plugin_habits: yes
