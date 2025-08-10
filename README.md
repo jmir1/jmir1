@@ -3,4 +3,4 @@
 -->
 
 <!-- hit counter -->
-<img src="https://count.getloli.com/get/@jmir1?theme=rule34" alt=":name" />
+<img src="https://count.getloli.com/get/@jmir1?theme=capoo-2" alt=":name" />
